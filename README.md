@@ -1,2 +1,2 @@
-# :bulb:ice-cream-shop
-Primeiro site responsivo
+# ice-cream-shop
+:bulb: Primeiro site responsivo
